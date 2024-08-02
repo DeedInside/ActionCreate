@@ -1,0 +1,89 @@
+{
+  "Database": {
+    "1.json": {
+      "Annotations": [
+        {
+          "Label": "Crash",
+          "Segment": [
+            0.832,
+            1.727
+          ]
+        }
+      ],
+      "Duration": 0.8950000000000001,
+      "Subset": "0",
+      "Url": "C:\\Users\\VRLab\\Desktop\\ActionCreate-master\\ActionCreate\\DataSet\\video\\cctv.mp4"
+    },
+    "2.json": {
+      "Annotations": [
+        {
+          "Label": "Crash",
+          "Segment": [
+            0.832,
+            1.727
+          ]
+        }
+      ],
+      "Duration": 0.8950000000000001,
+      "Subset": "0",
+      "Url": "C:\\Users\\VRLab\\Desktop\\ActionCreate-master\\ActionCreate\\DataSet\\video\\cctv.mp4"
+    },
+    "3.json": {
+      "Annotations": [
+        {
+          "Label": "Crash",
+          "Segment": [
+            0.832,
+            1.727
+          ]
+        }
+      ],
+      "Duration": 0.8950000000000001,
+      "Subset": "0",
+      "Url": "C:\\Users\\VRLab\\Desktop\\ActionCreate-master\\ActionCreate\\DataSet\\video\\cctv.mp4"
+    },
+    "4.json": {
+      "Annotations": [
+        {
+          "Label": "Crash",
+          "Segment": [
+            0.81132,
+            1.722222227
+          ]
+        }
+      ],
+      "Duration": 0.8901,
+      "Subset": "0",
+      "Url": "C:\\Users\\VRLab\\Desktop\\ActionCreate-master\\ActionCreate\\DataSet\\video\\cctv.mp4"
+    },
+    "cctv.mp4.json": {
+      "Annotations": [
+        {
+          "Label": "Crash",
+          "Segment": [
+            0.832,
+            1.727
+          ]
+        }
+      ],
+      "Duration": 0.8950000000000001,
+      "Subset": "0",
+      "Url": "C:\\Users\\VRLab\\Desktop\\ActionCreate-master\\ActionCreate\\DataSet\\video\\cctv.mp4"
+    }
+  },
+  "Taxanomy": [
+    {
+      "NodeId": "0",
+      "NodeName": "Root",
+      "ParentId": "None",
+      "ParetName": "None"
+    },
+    {
+      "NodeId": "1",
+      "NodeName": "Crash",
+      "ParentId": "0",
+      "ParetName": "Root"
+    }
+  ],
+  "Version": "v1.0"
+}

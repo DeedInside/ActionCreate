@@ -1,0 +1,14 @@
+{
+  "Annotations": [
+    {
+      "Label": "Crash",
+      "Segment": [
+        0.832,
+        1.727
+      ]
+    }
+  ],
+  "Duration": 0.8950000000000001,
+  "Subset": "0",
+  "Url": "C:\\Users\\VRLab\\Desktop\\ActionCreate-master\\ActionCreate\\DataSet\\video\\cctv.mp4"
+}
