@@ -172,7 +172,7 @@ namespace ActionCreate
 
             if (PythSelectedVideo != null && PythSelectedVideo != "")
             {
-                mePlayer.Source = new Uri(PythSelectedVideo);
+                mePlayer.Source = new Uri(PythFolderVideo + @"\" + PythSelectedVideo);
                 mePlayer.Play();
                 mePlayer.Pause();
                 btnPlay.Focus();
